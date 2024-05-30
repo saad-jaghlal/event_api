@@ -60,16 +60,6 @@
     "date": "18/11/2023"
   },
   {
-    "id": "c7",
-    "title": "Data Science",
-    "imageUrl": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
-    "prix": 65,
-    "description": "Apprenez à analyser et interpréter les données pour prendre des décisions éclairées.",
-    "adress": "Casablanca",
-    "duree": 5,
-    "date": "05/12/2023"
-  },
-  {
     "id": "c8",
     "title": "Intelligence Artificielle",
     "imageUrl": "https://images.unsplash.com/photo-1569025696330-14a0c00a32e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
